@@ -1,0 +1,2 @@
+include ':app', ':ptrlib'
+rootProject.name='android-Simple-Pull-to-Refresh'
